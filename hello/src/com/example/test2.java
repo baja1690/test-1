@@ -1,2 +1,3 @@
-class test2{
+package com.example;
+public class test2{
 }
